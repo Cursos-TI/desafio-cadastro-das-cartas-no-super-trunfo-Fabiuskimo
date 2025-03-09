@@ -5,7 +5,7 @@ int main() {
     int populacao;
     float area;
     int pontos;
-    float PIB;
+    float pib;
 
     printf("Digite o nome de sua Cidade")
     scanf("%s", &nome);
@@ -20,7 +20,7 @@ int main() {
     scanf("%d", &pontos);
 
     printf("Digite o valor do PIB de sua Cidade")
-    scanf("%f", &PIB);
+    scanf("%f", &pib);
     
 
     return 0;
